@@ -2,7 +2,7 @@
 
 I want everyone to create a feature branch, use this naming convention:
 
-<lastname>_branch
+\<lastname\>_branch
 
 Create your branch from the terminal and make changes to the README file.
 
