@@ -1,13 +1,15 @@
-# githubtutorial
-used for teaching team members the github workflow
+# For your first assignment...
 
+I want everyone to create a feature branch, use this naming convention:
 
-# This is another section heading
-Shawn added changes to the readme without first getting changes from a feature branch with unmerged changes.
+<lastname>_branch
 
-What are we going to do now?
+Create your branch from the terminal and make changes to the README file.
 
-# Section Heading
-More readme content here.
+We are going to create merge conflicts intentionally.
 
-In this case we resolve the conflict by deleting the conflict markers
+Add your name to the next section of this file.  Follow my example.
+
+# Next Section
+
+Shawn Herrington
