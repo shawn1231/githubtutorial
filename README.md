@@ -17,5 +17,5 @@ Shawn Herrington (again)\
 Travis Fields\
 Paul Klappa\
 Jackson Daniel\
-Peter Nguyen
-Drew Nelson\
+Peter Nguyen\
+Drew Nelson
